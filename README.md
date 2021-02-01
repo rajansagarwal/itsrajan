@@ -1,5 +1,5 @@
 ## Hi, I'm Rajan 👋
-#### Connect with me:
+### Connect with me:
 
 [<img align="left" alt="itzpradip | Twitter" width="22px" src="https://img.icons8.com/fluent/22/000000/twitter.png" />][twitter]
 [<img align="left" alt="Pradip Debnath | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
