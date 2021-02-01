@@ -24,29 +24,6 @@ I am a 15 year old passionate about code!
 <br />
 <br />
 
----
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [React Native Chat App UI Tutorial](https://www.youtube.com/watch?v=bGGeD5RkdzQ)
-- [Google Map Custom InfoWindow in Flutter](https://www.youtube.com/watch?v=0048xewPoxo)
-- [Shimmer Effect | Skeleton UI | Image Loading UI in React Native](https://www.youtube.com/watch?v=bHWoW_aNmnY)
-- [React Native Firebase Firestore Tutorial | Create/Delete Post | Delete from Storage](https://www.youtube.com/watch?v=ncxmNxNk2yc)
-- [SpaceX React App | React JS Tutorial for Beginners 2021](https://www.youtube.com/watch?v=zZJda1Gf7UU)
-<!-- YOUTUBE:END -->
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How to Implement Google Login in React Native with Firebase](https://www.pradipdebnath.com/2020/10/06/how-to-implement-google-login-in-react-native-with-firebase/)
-- [How to Implement Email Authentication in React Native using Firebase](https://www.pradipdebnath.com/2020/10/04/how-to-implement-email-authentication-in-react-native-using-firebase/)
-- [How To Add Page Template From Plugin in WordPress](https://www.pradipdebnath.com/2019/08/17/how-to-add-page-template-from-plugin-in-wordpress/)
-- [WordPress REST API Tutorial: Add New Custom API Field](https://www.pradipdebnath.com/2019/07/16/wordpress-rest-api-tutorial-add-new-custom-api-field/)
-- [How To Add or Update WordPress Plugin SVN Repository with CLI](https://www.pradipdebnath.com/2019/06/04/how-to-add-or-update-wordpress-plugin-svn-repository-with-cli/)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 <img align="left" alt="itzpradip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itzpradip&show_icons=true&hide_border=true" />
 
