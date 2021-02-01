@@ -8,6 +8,7 @@
 
 <br />
 <br />
+### Have an idea? Check me out!
 
 **Languages and Tools:**
 
