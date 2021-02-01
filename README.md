@@ -5,7 +5,7 @@ I am a 15 year old passionate about code!
 [<img align="left" alt="itzpradip | Twitter" width="22px" src="https://img.icons8.com/fluent/22/000000/twitter.png" />][twitter]
 [<img align="left" alt="Pradip Debnath | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Pradip Debnath | Facebook" width="22px" src="https://img.icons8.com/color/22/000000/facebook-new.png" />][facebook]
-[<img align="left" alt="Pradip Debnath | Facebook" width="22px" src="https://img.icons8.com/color/22/000000/instagram.png" />][instagram]
+[<img align="left" alt="Pradip Debnath | Facebook" width="22px" src="https://img.icons8.com/color/22/000000/instagram-new.png" />][instagram]
 
 <br />
 <br />
