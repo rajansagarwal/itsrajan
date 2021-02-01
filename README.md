@@ -24,14 +24,9 @@ I am a 15 year old passionate about code!
 <br />
 <br />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itsrajan)
-<img align="left" alt="itzpradip's Github Stats" src="" />
+![Rajan's github stats](https://github-readme-stats.vercel.app/api?username=itsrajan)
 
-[website]: https://www.pradipdebnath.com/
-[twitter]: https://twitter.com/itzpradip
-[youtube]: https://youtube.com/itzpradip
-[facebook]: https://facebook.com/itzpradip
-[linkedin]: https://linkedin.com/in/itzpradip
-[reactnativeplaylist]: https://www.youtube.com/playlist?list=PLQWFhX-gwJblNXe9Fj0WomT0aWKqoDQ-h
-[flutterplaylist]: https://www.youtube.com/playlist?list=PLQWFhX-gwJbkq4pqvzmSiBrKndlwM-cNh
-[wordpressdevplaylist]: https://www.youtube.com/playlist?list=PLQWFhX-gwJbkX54Rzmj0y2t3l9_HJ2a-r
+[twitter]: https://twitter.com/itsrajan05
+[instagram]: https://instagram.com/in/itsrajan05
+[facebook]: https://facebook.com/itsrajan05
+[linkedin]: https://linkedin.com/in/itsrajan05
