@@ -24,8 +24,8 @@ I am a 15 year old passionate about code!
 <br />
 <br />
 
-
-<img align="left" alt="itzpradip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itzpradip&show_icons=true&hide_border=true" />
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itsrajan)
+<img align="left" alt="itzpradip's Github Stats" src="" />
 
 [website]: https://www.pradipdebnath.com/
 [twitter]: https://twitter.com/itzpradip
