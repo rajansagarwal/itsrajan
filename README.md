@@ -1,32 +1,6 @@
 ## Hi, I'm Rajan 👋
-### Connect with me:
 
-[<img align="left" alt="itzpradip | Twitter" width="22px" src="https://img.icons8.com/fluent/22/000000/twitter.png" />][twitter]
-[<img align="left" alt="Pradip Debnath | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Pradip Debnath | Facebook" width="22px" src="https://img.icons8.com/color/22/000000/facebook-new.png" />][facebook]
-[<img align="left" alt="Pradip Debnath | Facebook" width="22px" src="https://img.icons8.com/color/22/000000/instagram-new.png" />][instagram]
-
-<br />
-<br />
-### Have an idea? Check me out!
-
-**Languages and Tools:**
-
-<code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-<code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
-<br /><br />
-**Learning Right Now!:**
-
-<code><img alt="Node.JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
-<code><img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code>
-<code><img alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" /></code>
-<code><img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
-<code><img alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" /></code>
-<code><img alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /></code>
-<br /><br />
-![Rajan's github stats](https://github-readme-stats.vercel.app/api?username=itsrajan)
+I am a 15 year old full stack developer **in-training**. I utilize _HTML5/CSS3, Vanilla Javascript and React_, and am currently learning _Typescript, Django, Node and PostgreSQL_. I am currently working on a few large projects such as Oria, Kyte, Bakr and InvestScape. Feel free to get in touch to learn more!
 
 [twitter]: https://twitter.com/itsrajan05
 [instagram]: https://instagram.com/in/itsrajan05
