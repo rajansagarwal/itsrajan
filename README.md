@@ -1,7 +1,7 @@
 ## Hi, I'm Rajan 👋
 
 I am a 15 year old full stack developer **in-training**. I utilize _HTML5/CSS3, Vanilla Javascript, React and Python_, and am currently learning _Typescript, Django, Node and PostgreSQL_. <br><br>
-Completed Large Projects: __Feather, Concentrate.io__<br>
+Completed Large Projects: __Feather, Concentrate.io, Find Your Story Canada__<br>
 Working On: __InvestScape, Personal Portfolio, Kyte__<br>
 Developing Prototypes: __Oria, SafeShop, Net.work() and GolfCommunity__
 <br><br>
