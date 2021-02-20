@@ -5,7 +5,7 @@ Selected Completed Projects: __Feather, Study.io, Find Your Story Canada__<br>
 Large Projects Working On: __DevHelper, The Social Good, SimpleWellness, Kyte, SafeShop__<br>
 Future Potential Prototypes: __Oria, GolfCommunity__ 
 <br><br>
-To learn more, please contact me and I will be more than happy to share.
+To learn more, please contact me and I will be more than happy to share. 
 <br><br>
 Linkedin: https://facebook.com/itsrajan05 <br> 
 Instagram: https://instagram.com/in/itsrajan05<br> 
