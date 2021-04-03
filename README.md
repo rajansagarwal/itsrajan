@@ -1,4 +1,4 @@
-## Hi, I'm Rajan 👋
+## Hi 👋
 
 <img src="https://i.ibb.co/gTGQdrS/main.png" alt="image" />
 
