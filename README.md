@@ -1,4 +1,4 @@
-## <div class="if-you-are-seeing-this-HELLOO!!" style="align-items:center">Hi 👋</div>
+## <div class="if-you-are-seeing-this-HELLOO!!" style="margin-left:50%">Hi 👋</div>
 
 <img src="https://i.ibb.co/gTGQdrS/main.png" alt="image" />
 
