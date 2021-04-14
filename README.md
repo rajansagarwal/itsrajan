@@ -2,12 +2,9 @@
 
 <img src="https://i.ibb.co/gTGQdrS/main.png" alt="image" />
 
-I am a 15 year old full stack developer **in-training**. I utilize _HTML5/CSS3, Vanilla Javascript, React and Python_, and am currently learning _Django, Node and PostgreSQL_. __THE MAJORITY OF MY WORK IS NOT ON GITHUB__<br><br>
-Selected Compelted Projects: __Feather, Study.io, Find Your Story Canada__ <br> 
-Large Projects Working On: __Medical Waiting Rooms, Kyte, Study.io V2, Personal Site__<br> 
-Future Potential Prototypes: __Oria, SafeShop__ 
+I am a 15 year old full stack developer **in-training**. I utilize _HTML5/CSS3, Vanilla, React, NextJS and Python_, and am currently learning _Django, Node and PostgreSQL_. 
 <br><br> 
-To learn more, please contact me and I will be more than happy to share. Personal website coming soon!
+Personal website coming soon!
 <br><br>
 Linkedin: https://facebook.com/itsrajan05 <br> 
 Instagram: https://instagram.com/in/itsrajan05<br> 
