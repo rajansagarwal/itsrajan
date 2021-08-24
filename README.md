@@ -7,7 +7,7 @@ I am a 15 year old full stack developer **in-training**. I utilize _HTML5/CSS3, 
 Personal website coming soon!
 <br><br>
 Linkedin: https://facebook.com/itsrajan05 <br> 
-Instagram: https://instagram.com/in/itsrajan05<br> 
+Instagram: https://instagram.com/rajanwastaken<br> 
 Email: rajan.ag005@gmail.com<br>
 Twitter: https://twitter.com/itsrajan05<br> 
  
