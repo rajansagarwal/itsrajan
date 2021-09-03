@@ -4,8 +4,7 @@
 
 I am a 15 year old full stack developer **in-training**. I utilize _HTML5/CSS3, Vanilla, React, NextJS and Python_, and am currently learning _Django, Node and PostgreSQL_. 
 <br><br> 
-Personal website coming soon!
-<br><br>
+Website: https://heyrajan.com<br>
 Linkedin: https://facebook.com/itsrajan05 <br> 
 Instagram: https://instagram.com/rajanwastaken<br> 
 Email: rajan.ag005@gmail.com<br>
